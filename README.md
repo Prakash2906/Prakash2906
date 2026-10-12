@@ -81,7 +81,7 @@ My work spans the engineering lifecycle — from algorithms and data modelling t
 | **Computer Vision** | ![](https://img.shields.io/badge/Advanced-7c3aed?style=flat-square) | Face detection and recognition, LBPH implemented from scratch, OpenCV image pipelines |
 | **Machine Learning** | ![](https://img.shields.io/badge/Intermediate-6d28d9?style=flat-square) | Supervised learning, feature extraction, model evaluation, scikit-learn |
 | **Deep Learning** | ![](https://img.shields.io/badge/Intermediate-6d28d9?style=flat-square) | Neural networks, CNNs, transfer learning with PyTorch and TensorFlow |
-| **Generative AI & LLMs** | ![](https://img.shields.io/badge/Exploring-4f46e5?style=flat-square) | Prompt engineering, LLM-powered applications, retrieval-augmented generation |
+| **Generative AI & LLMs** | ![](https://img.shields.io/badge/OCI_Certified-6d28d9?style=flat-square) | Prompt engineering, LLM-powered applications, retrieval-augmented generation |
 | **Data Engineering** | ![](https://img.shields.io/badge/Intermediate-4f46e5?style=flat-square) | Data preprocessing, SQL, structured storage with SQLite and MySQL |
 
 </div>
@@ -113,18 +113,18 @@ Implemented the Local Binary Patterns Histograms algorithm from first principles
 <summary><b>Typing Speed Calculator</b> — Java application for measuring typing performance</summary>
 <br/>
 
-A Java application that measures typing speed and accuracy, giving users instant feedback on their performance.
+A Java console application that measures typing speed in words per minute, built during my Varcons Technologies internship.
 
 | Attribute | Details |
 |:--|:--|
 | **Stack** | Java |
 | **Scale** | Lightweight standalone application |
-| **Performance** | Real-time words-per-minute and accuracy calculation |
+| **Performance** | Words-per-minute calculated from elapsed time and characters typed |
 | **Security** | Fully offline, no data leaves the device |
-| **Impact** | Helps users track and improve typing speed and accuracy |
+| **Impact** | Helps users measure and track their typing speed |
 | **Repository** | [![Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=flat-square&logo=github)](https://github.com/Prakash2906/Typing-Speed-Calculator) |
 
-Built around precise timing logic and character-level comparison to compute speed and accuracy metrics accurately.
+Uses a countdown, randomised word prompts and nanosecond timing to compute WPM using the standard five-characters-per-word rule.
 
 </details>
 
@@ -189,17 +189,30 @@ Presents each project as a case study covering problem, process, and outcome.
 
 ## Experience
 
-### Software Developer — Independent Projects
-`Present`
+### MERN Stack Intern — Kods Technologies Pvt. Ltd.
+`Feb 2025 – Present` · Bengaluru · On-site
 
-Designing and building software across computer vision, desktop applications, and the web, taking each project from concept to a working, published product.
+Working on full stack web development with the MERN stack in a product team.
 
-- Built a face recognition attendance system with a from-scratch LBPH recognizer in Java
-- Developed responsive web applications with clean, accessible interfaces
-- Applied UI/UX design process to portfolio case studies
-- Managed source control, documentation, and publishing through GitHub
+- Building and maintaining features across React front-ends and Node.js / Express back-ends
+- Working with MongoDB data models and REST APIs
+- Collaborating through Git-based workflows with the development team
 
-![](https://img.shields.io/badge/Java-302b63?style=flat-square) ![](https://img.shields.io/badge/OpenCV-302b63?style=flat-square) ![](https://img.shields.io/badge/JavaScript-302b63?style=flat-square) ![](https://img.shields.io/badge/SQLite-302b63?style=flat-square) ![](https://img.shields.io/badge/UI%2FUX-302b63?style=flat-square) ![](https://img.shields.io/badge/Git-302b63?style=flat-square)
+![](https://img.shields.io/badge/MongoDB-302b63?style=flat-square) ![](https://img.shields.io/badge/Express.js-302b63?style=flat-square) ![](https://img.shields.io/badge/React-302b63?style=flat-square) ![](https://img.shields.io/badge/Node.js-302b63?style=flat-square) ![](https://img.shields.io/badge/Git-302b63?style=flat-square)
+
+### Java Development Intern — Varcons Technologies Pvt. Ltd.
+`Oct 2022 – Nov 2022`
+
+Built a Typing Speed (WPM) tool in Java that captures user input, measures elapsed time and computes words per minute.
+
+![](https://img.shields.io/badge/Java-4c1d95?style=flat-square) ![](https://img.shields.io/badge/OOP-4c1d95?style=flat-square)
+
+### Full Stack Java Development — Tap Academy
+`Apr 2026 – Present` · Bengaluru
+
+Intensive training program: Core & Advanced Java, OOP, Spring, Hibernate, Data Structures & Algorithms, MySQL, HTML, CSS, JavaScript and React.
+
+![](https://img.shields.io/badge/Spring-6d28d9?style=flat-square) ![](https://img.shields.io/badge/Hibernate-6d28d9?style=flat-square) ![](https://img.shields.io/badge/DSA-6d28d9?style=flat-square) ![](https://img.shields.io/badge/MySQL-6d28d9?style=flat-square)
 
 ---
 
@@ -212,7 +225,8 @@ Designing and building software across computer vision, desktop applications, an
 | **Computer Vision from Scratch** | Implemented the LBPH face recognition algorithm without relying on prebuilt recognizers |
 | **Shipped Projects** | Multiple public projects across Java, JavaScript, and web technologies |
 | **Portfolio** | Live UI/UX and front-end portfolio hosted on GitHub Pages |
-| **Continuous Learning** | Actively building skills in AI/ML, full stack development, and system design |
+| **Oracle Certified** | OCI 2025 Generative AI Professional and OCI 2025 AI Foundations Associate |
+| **Continuous Learning** | Full Stack Java training at Tap Academy; LinkedIn Skill Assessments passed in Python and JavaScript |
 
 </div>
 
@@ -222,21 +236,21 @@ Designing and building software across computer vision, desktop applications, an
 
 <div align="center">
 
-**AWS**
-
-<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-In_Progress-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
 **Oracle**
 
-<img src="https://img.shields.io/badge/OCI_AI_Foundations-In_Progress-302b63?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCI_2025-Certified_Generative_AI_Professional-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCI_2025-Certified_AI_Foundations_Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-**NPTEL**
+**LinkedIn Skill Assessments**
 
-<img src="https://img.shields.io/badge/NPTEL-In_Progress-4c1d95?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Passed-302b63?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Passed-302b63?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-**Cisco**
+**AWS · NPTEL · Cisco**
 
-<img src="https://img.shields.io/badge/Cisco_Networking_Academy-In_Progress-1e3a8a?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Planned-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Planned-4c1d95?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco_Networking_Academy-Planned-1e3a8a?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
 

@@ -110,6 +110,44 @@ Implemented the Local Binary Patterns Histograms algorithm from first principles
 </details>
 
 <details>
+<summary><b>Student Management API</b> — RESTful CRUD backend with Spring Boot</summary>
+<br/>
+
+A production-style REST API for managing student records, built with a clean layered architecture and full integration test coverage.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Java 17 · Spring Boot 3 · Spring Data JPA · Hibernate · H2 · MySQL · JUnit 5 |
+| **Scale** | Full CRUD with course filtering and name search across 7 endpoints |
+| **Performance** | Derived JPA queries and in-memory H2 for zero-setup local runs |
+| **Security** | Bean Validation on every request, unique-email enforcement, credentials via environment variables |
+| **Impact** | Demonstrates backend fundamentals: REST design, persistence, validation and testing |
+| **Repository** | [![Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=flat-square&logo=github)](https://github.com/Prakash2906/student-management-api) |
+
+Structured as Controller → Service → Repository with centralized error handling via @RestControllerAdvice, returning consistent JSON errors (400, 404, 409) and covered by MockMvc integration tests.
+
+</details>
+
+<details>
+<summary><b>Java DSA Practice</b> — Classic data structures & algorithms with tests</summary>
+<br/>
+
+A curated set of clean, well-commented Java solutions to classic interview problems, each annotated with time and space complexity.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Java 17 · JUnit 5 · Maven |
+| **Scale** | 20+ problems across sorting, searching, arrays, strings and linked lists |
+| **Performance** | Optimal approaches: hash maps, two pointers, sliding window, Kadane, Floyd cycle detection |
+| **Security** | Pure, side-effect-free utility methods with input validation |
+| **Impact** | Builds problem-solving depth for technical interviews, verified by automated tests |
+| **Repository** | [![Repo](https://img.shields.io/badge/View_Repository-7c3aed?style=flat-square&logo=github)](https://github.com/Prakash2906/java-dsa-practice) |
+
+Sorting algorithms are validated against Arrays.sort on randomized inputs, and a growing roadmap covers trees, graphs and dynamic programming.
+
+</details>
+
+<details>
 <summary><b>Typing Speed Calculator</b> — Java application for measuring typing performance</summary>
 <br/>
 
